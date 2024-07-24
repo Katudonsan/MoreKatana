@@ -1,0 +1,4 @@
+displayName = More Katana
+author = Katudonsan
+version = 0.1
+includeSource = true
