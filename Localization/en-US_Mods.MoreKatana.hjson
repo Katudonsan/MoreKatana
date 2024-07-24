@@ -1,1 +1,6 @@
-
+Items: {
+	WoodenKatana: {
+		DisplayName: Wooden Katana
+		Tooltip: ""
+	}
+}
