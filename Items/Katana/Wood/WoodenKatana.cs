@@ -18,7 +18,7 @@ namespace MoreKatana.Items.Katana.Wood
             Item.width = 50;//アイテム判定の横幅（拾得する際に使用）
             Item.height = 60;//アイテム判定の縦幅（拾得する際に使用）
 
-            Item.crit = 0;//近接武器なのでデフォルトで4%もらえる
+            Item.crit = 0;//デフォルトで4%クリティカル率をもらえる
             Item.useTime = 15;//アイテムを使用していると扱われる時間
             Item.useAnimation = 15;//アイテムのアニメーションを再生する時間
 

@@ -7,6 +7,15 @@
 	<PropertyGroup>
 		
 	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="Items\Katana\Metal\CopperKatana.png" />
+	  <None Remove="Items\Katana\Metal\GoldKatana.png" />
+	  <None Remove="Items\Katana\Metal\LeadKatana.png" />
+	  <None Remove="Items\Katana\Metal\PlatinumKatana.png" />
+	  <None Remove="Items\Katana\Metal\SilverKatana.png" />
+	  <None Remove="Items\Katana\Metal\TinKatana.png" />
+	  <None Remove="Items\Katana\Metal\TungstenKatana.png" />
+	</ItemGroup>
 
 	<!-- References -->
 
