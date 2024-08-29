@@ -12,8 +12,8 @@ namespace MoreKatana.Items.Katana.Metal
     {
         public override void SetDefaults()
         {
-            Item.width = 48;//アイテム判定の横幅（拾得する際に使用）
-            Item.height = 54;//アイテム判定の縦幅（拾得する際に使用）
+            Item.width = 50;//アイテム判定の横幅（拾得する際に使用）
+            Item.height = 60;//アイテム判定の縦幅（拾得する際に使用）
 
             Item.crit = 0;//デフォルトで4%クリティカル率をもらえる
             Item.useTime = 16;//アイテムを使用していると扱われる時間
