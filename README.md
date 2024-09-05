@@ -1,6 +1,6 @@
 # More Katana／モアカタナ
 
-ver0.1
+ver0.2
 
 <p>ー　English ー</p>
 <p>Note: Translated by DeepL.</p>
@@ -9,7 +9,7 @@ ver0.1
 
 <p>This mod further expands the possibilities of the Katana weapon that exists in Terraria!</p>
 
-<p>Currently we are adding 1 type of sword.</p>
+<p>Currently we are adding 8 type of sword.</p>
 
 <p>ー　日本語　ー</p>
 <p>注意：当Mod は 現在鋭意開発中です、念入りに検討の上追加していく予定ですが、どうしてもバグや調整ミスが含まれている場合があります。</p>
@@ -17,4 +17,4 @@ ver0.1
 
 <p>このModは、テラリアに存在する武器「Katana」の可能性をさらに拡張するModです。</p>
 
-<p>現在は 1 種類の刀を追加しています。</p>
+<p>現在は 8 種類の刀を追加しています。</p>

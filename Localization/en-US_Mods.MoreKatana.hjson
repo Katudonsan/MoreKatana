@@ -3,4 +3,39 @@ Items: {
 		DisplayName: Wooden Katana
 		Tooltip: Hard and sturdy.
 	}
+
+	CopperKatana: {
+		DisplayName: Copper Katana
+		Tooltip: ""
+	}
+
+	GoldKatana: {
+		DisplayName: Gold Katana
+		Tooltip: ""
+	}
+
+	LeadKatana: {
+		DisplayName: Lead Katana
+		Tooltip: ""
+	}
+
+	PlatinumKatana: {
+		DisplayName: Platinum Katana
+		Tooltip: ""
+	}
+
+	SilverKatana: {
+		DisplayName: Silver Katana
+		Tooltip: ""
+	}
+
+	TinKatana: {
+		DisplayName: Tin Katana
+		Tooltip: ""
+	}
+
+	TungstenKatana: {
+		DisplayName: Tungsten Katana
+		Tooltip: ""
+	}
 }
